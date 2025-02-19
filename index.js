@@ -1,9 +1,4 @@
-
-let display=document.getElementById("display")
+let disply=document.getElementById("display")
 function input(event){
- display.value+=event.target.value
-}
-function evaluvate(){
-    let exp=display.value;
-    console.log(exp)
+    console.log(event.targwt.value)
 }

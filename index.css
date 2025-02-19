@@ -10,4 +10,16 @@ input{
     border: 2px solid transparent;
     background-color: wheat;
     width: 90%;
+    height: 25px;
+}
+.md{
+border: 2px solid green;
+width: 250px;
+padding: 30px;
+}
+button:hover{
+    background-color: green;
+}
+button:active{
+    background-color: white;
 }
